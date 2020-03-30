@@ -6,7 +6,6 @@
     "illuminate/container": "^5.8",
     "hassankhan/config": "^2.0",
     "vlucas/phpdotenv": "^3.3",
-    "mongodb/mongodb": "^1.4",
     "ext-json": "*"
   },
   "autoload": {
@@ -16,14 +15,5 @@
     "files": [
       "app/Helpers/Functions.php"
     ]
-  },
-  "require-dev": {
-    "eaglewu/swoole-ide-helper": "dev-master"
-  },
-  "repositories": {
-    "packagist": {
-      "type": "composer",
-      "url": "https://packagist.laravel-china.org"
-    }
   }
 }

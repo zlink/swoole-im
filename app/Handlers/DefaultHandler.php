@@ -11,7 +11,7 @@ use Swoole\Redis;
 
 /**
  *
- * 全药网 webim 事件处理
+ *  webim 事件处理
  */
 class StarHandler extends Handler implements IHandler
 {
